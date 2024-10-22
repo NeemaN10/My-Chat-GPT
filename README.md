@@ -1,8 +1,6 @@
 # OwnGPT
-Create Own ChatGPT with your documents using streamlit UI on your own device using GPT models. No data leaves your device and 100% private.
+Create MY ChatGPT with your documents using streamlit UI on your own device using GPT models. No data leaves your device and 100% private.
 
-
-This project was inspired by the original privateGPT (https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT. 
 
 Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
 
